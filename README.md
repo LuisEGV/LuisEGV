@@ -19,7 +19,9 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-000?&logo=GoogleCloud)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React Native](https://img.shields.io/badge/React_Native-000.svg?&logo=react&logoColor=#99999)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
@@ -29,6 +31,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 ![Adobe](https://img.shields.io/badge/-Adobe-000?&logo=Adobe)
+
 
 ### Projects
 
