@@ -13,7 +13,7 @@
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
-![C++](https://img.shields.io/badge/-Solidity-000?&logo=C++)
+![C++](https://img.shields.io/badge/-c++-000?&logo=c%2B%2B&)
 
 ### Technologies
 
@@ -23,6 +23,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-000.svg?&logo=react&logoColor=#99999)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
+![tRPC](https://img.shields.io/badge/-trpc-000?&logo=trpc)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
@@ -32,6 +33,10 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 ![Adobe](https://img.shields.io/badge/-Adobe-000?&logo=Adobe)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![TRPC](https://img.shields.io/badge/-trpc-000?&logo=trpc)
+
+
 
 
 ### Projects
