@@ -13,6 +13,7 @@
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
+![C++](https://img.shields.io/badge/-Solidity-000?&logo=C++)
 
 ### Technologies
 
