@@ -34,7 +34,6 @@
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 ![Adobe](https://img.shields.io/badge/-Adobe-000?&logo=Adobe)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![TRPC](https://img.shields.io/badge/-trpc-000?&logo=trpc)
 
 
 
