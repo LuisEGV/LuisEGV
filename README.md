@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Currently working on Kadi Clubs and building all types of projects on the side!
+- 🔭 Currently working on KabCash and building all types of projects on the side!
 
 - ⚡ Fun fact: I like turtles and I collect old video games and coins.
 
@@ -20,6 +20,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-000?&logo=GoogleCloud)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 ![React Native](https://img.shields.io/badge/React_Native-000.svg?&logo=react&logoColor=#99999)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
@@ -44,6 +45,7 @@
 [![](https://img.shields.io/badge/-⛳%20Kadi%20Clubs%20-000)](https://www.kadi.club/)
 [![](https://img.shields.io/badge/-🎴%20dbay-000)](https://web.archive.org/web/20190705153954/http://www.dbay.ai/)
 [![](https://img.shields.io/badge/-🔥%20Universal%20Graph-000)](https://universal-graph.vercel.app/)
+[![](https://img.shields.io/badge/-💳%20KabCash-000)](https://kabcash.com/))
 
 
 
