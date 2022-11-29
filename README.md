@@ -45,7 +45,7 @@
 [![](https://img.shields.io/badge/-⛳%20Kadi%20Clubs%20-000)](https://www.kadi.club/)
 [![](https://img.shields.io/badge/-🎴%20dbay-000)](https://web.archive.org/web/20190705153954/http://www.dbay.ai/)
 [![](https://img.shields.io/badge/-🔥%20Universal%20Graph-000)](https://universal-graph.vercel.app/)
-[![](https://img.shields.io/badge/-💳%20KabCash-000)](https://kabcash.com/))
+[![](https://img.shields.io/badge/-💳%20KabCash-000)](https://kabcash.com/)
 
 
 
