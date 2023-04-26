@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on KabCash and building all types of projects on the side!
 
-- ⚡ Fun fact: I like turtles and I collect old video games and coins.
+- ⚡ Fun fact: I collect old video games and coins.
 
 
 ### Languages
