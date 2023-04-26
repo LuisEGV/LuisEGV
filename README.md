@@ -22,6 +22,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 ![React Native](https://img.shields.io/badge/React_Native-000.svg?&logo=react&logoColor=#99999)
+![Expo](https://img.shields.io/badge/-Unity-000?&logo=Expo)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
 ![tRPC](https://img.shields.io/badge/-trpc-000?&logo=trpc)
