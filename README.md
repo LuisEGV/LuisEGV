@@ -14,6 +14,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![C++](https://img.shields.io/badge/-c++-000?&logo=c%2B%2B&)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=c%2B%2B&)
 
 ### Technologies
 
@@ -30,11 +31,11 @@
 ![Docker](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
-![Adobe](https://img.shields.io/badge/-Adobe-000?&logo=Adobe)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
 
